@@ -1,8 +1,0 @@
-{
-    "sushmitt1234@outlook.com": {
-        "Last check": "2023-05-05",
-        "Today's points": 515,
-        "Points": 515
-    },
-    "Elapsed time": "00:00:00"
-}
